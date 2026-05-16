@@ -1,0 +1,15 @@
+{
+  "name": "qk-proxy",
+  "version": "1.0.0",
+  "description": "QK Terminal candle data proxy — bypasses corporate firewall",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
